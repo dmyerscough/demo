@@ -15,3 +15,8 @@ OK
 ```
 
 A successful run of the unit test should produce an exit status of zero
+
+## TODO
+
+[] Create CI pipeline
+[] Automatic linting of all `.py` files
